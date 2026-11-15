@@ -1,0 +1,38 @@
+{
+  "name": "pugsoda-mcp",
+  "version": "1.0.1",
+  "description": "Browse trending TikTok AI meme video templates, prices, photo tips, and direct upload links.",
+  "author": {
+    "name": "PugSoda",
+    "url": "https://pugsoda.com"
+  },
+  "homepage": "https://pugsoda.com/docs/mcp",
+  "repository": "https://github.com/pugsoda/pugsoda-mcp",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "ai-video",
+    "tiktok-memes",
+    "video-templates",
+    "photo-to-video",
+    "skills",
+    "claude-code",
+    "cursor"
+  ],
+  "skills": [
+    "./skills"
+  ],
+  "mcpServers": "./.mcp.json",
+  "category": "media",
+  "tags": [
+    "mcp",
+    "mcp-server",
+    "ai-video",
+    "tiktok-memes",
+    "video-templates",
+    "photo-to-video",
+    "skills"
+  ],
+  "logo": "https://raw.githubusercontent.com/pugsoda/pugsoda-mcp/main/logo.png"
+}

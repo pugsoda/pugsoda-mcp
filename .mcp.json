@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pugsoda": {
+      "type": "http",
+      "url": "https://pugsoda.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.pugsoda/pugsoda",
+  "title": "PugSoda",
+  "description": "Browse trending TikTok AI meme video templates, prices, photo tips, and direct upload links.",
+  "version": "1.0.1",
+  "websiteUrl": "https://pugsoda.com/docs/mcp",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://pugsoda.com/mcp"
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/pugsoda/pugsoda-mcp",
+    "source": "github"
+  }
+}
